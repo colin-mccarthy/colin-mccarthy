@@ -3,7 +3,7 @@
   <br>
   <samp>
     <p>
-      I'm a <strong>Senior Specialist Solutions Architect</strong> at Red Hat.   <strong>Currently working with Kubernetes and Ansible as well as blogging with Jeykll and hacking on my Raspberry Pi cluster.</strong> 😼.
+      I'm a <strong>Senior Specialist Solutions Architect</strong> at Red Hat.   <strong>Currently working with Kubernetes</strong> and Ansible</strong> as well as blogging with Jeykll</strong> and hacking on my Raspberry Pi</strong> cluster. 😼.
     </p>
   </samp>
 	
