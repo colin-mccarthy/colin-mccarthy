@@ -9,7 +9,7 @@
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"></code>
-
+<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg"></code>
 <!--
 **colin-mccarthy/colin-mccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
