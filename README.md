@@ -1,4 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <h3>Hi there 👋</h3>
+  <br>
+  <samp>
+    <p>
+      I'm a <strong>Senior Specialist Solutions Architect</strong> at Red Hat.   <strong>Currently working with Kubernetes and Ansible as well as blogging with Jeykll and hacking on my Raspberry Pi cluster.</strong> 😼.
+    </p>
+  </samp>
+	
+  <br />
+  <br />
+
+</div>
 
 ****
 
