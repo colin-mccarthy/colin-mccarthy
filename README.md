@@ -20,7 +20,7 @@
 
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></code>
+
 
 
 
@@ -30,6 +30,9 @@
 * [Ansible + ServiceNow Part 2: Parsing facts from network devices using PyATS/Genie](https://www.ansible.com/blog/ansible-servicenow-part-2-parsing-facts-from-network-devices-using-pyats/genie)
 * [Ansible Linting with GitHub Actions](https://www.ansible.com/blog/ansible-linting-with-github-actions)
 
-**Follow Me**
+**Videos you may like**
 
-<a href="https://twitter.com/Colinnation?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Colinnation</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></code>
+
+* [Ansible Tower Container Groups](https://www.youtube.com/watch?v=fBNTYOovtkI&t=9s)
+
