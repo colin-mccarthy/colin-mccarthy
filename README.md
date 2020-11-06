@@ -12,11 +12,6 @@
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhatopenshift.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg"></code>
-
-
-
-**Hobbies**
-
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></code> 
