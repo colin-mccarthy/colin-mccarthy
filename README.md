@@ -1,4 +1,4 @@
-![](https://github.com/colin-mccarthy/colin-mccarthy/train.jpg)
+![](https://github.com/colin-mccarthy/colin-mccarthy/blob/main/train.jpg)
 
 
 
