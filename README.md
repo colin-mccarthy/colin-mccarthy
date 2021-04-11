@@ -28,4 +28,5 @@
 * [Ansible Tower for Cisco Network - Demo](https://www.youtube.com/watch?v=5xpYV_jWtLE)
 
 
-![](https://github.com/colin-mccarthy/colin-mccarthy/blob/main/CKAD.jpg)
+
+<code><img height="22" src="https://github.com/colin-mccarthy/colin-mccarthy/blob/main/CKAD.jpg"></code>
