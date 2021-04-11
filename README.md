@@ -16,7 +16,7 @@
 **Youtube videos:** 
 
 
-* [Ansible Tower Container Groups](https://www.youtube.com/watch?v=fBNTYOovtkI&t=9s)
+* [Ansible Tower Container Groups - Kubernetes Feature](https://www.youtube.com/watch?v=fBNTYOovtkI&t=9s)
 
 * [Ansible Tower for Cisco Network - Demo](https://www.youtube.com/watch?v=5xpYV_jWtLE)
 
