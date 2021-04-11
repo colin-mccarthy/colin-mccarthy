@@ -17,6 +17,8 @@
 
 * [Ansible Functions as a Service for Network Automation](https://www.thenetwork.engineer/blog/ansible-functions-as-a-service)
 
+* [Ansible Tower Container Groups with OpenShift](https://www.thenetwork.engineer/blog/ansible-tower-container-groups-with-openshift)
+
 **Youtube videos:** 
 
 
