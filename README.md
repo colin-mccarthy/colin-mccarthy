@@ -24,5 +24,10 @@
 * [Ansible Tower for Cisco Network - Demo](https://www.youtube.com/watch?v=5xpYV_jWtLE)
 
 
+**Personal blog posts:**
+
+* [Vault Agent Sidecar Pod Security Standards](https://colin-mccarthy.github.io/plainwhite-jekyll/kubernetes/cloud/vault/2023/06/01/mission-controll.html)
+
+
 
 <img align="right" height="75" src="https://github.com/colin-mccarthy/colin-mccarthy/blob/main/CKAD.png"></code>
