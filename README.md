@@ -26,7 +26,7 @@
 
 **Personal blog posts:**
 
-* [Vault Agent Sidecar Pod Security Standards](https://colin-mccarthy.github.io/plainwhite-jekyll/kubernetes/cloud/vault/2023/06/01/mission-controll.html)
+* [Vault Agent Sidecar Pod Security Standards](https://colin-mccarthy.github.io/plainwhite-jekyll/kubernetes/cloud/vault/2023/06/01/vault-agent-sidecar-pod-security-standards.html)
 
 
 
